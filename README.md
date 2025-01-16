@@ -1,7 +1,7 @@
 # Nucleic Acid Nanostructures
 
 <p align="center">
-  <img src="logo.jpg" width="250" alt=" "/>
+  <img src="logo.jpg" width="400" alt=" "/>
 </p>
 
 A custom script for AmberTools to construct and design nucleic acid nanostructures. This tool simplifies the creation of complex DNA/RNA architectures for molecular modeling and simulation workflows.
